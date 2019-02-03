@@ -2,7 +2,7 @@
 
 Le jeu de données permet de mesurer l'évolution du classement des métropoles mondiales selon le classement du <a href="https://www.lboro.ac.uk/gawc/group.html">GaWC</a>. Les trois derniers classements sont disponibles (2012-2018). Ils peuvent être comparés au classement établi en 2000. Le nombre de firmes multinationales classées parmi les 500 premières selon le <a href="http://fortune.com/global500">Global Fortune 500</a> complète ces premières données. Les années 2016 à 2018 sont disponibles.
 
-Le projet GaWC.qgis réalisé avec <a href="https://www.qgis.org/en/site/">QGIS 3.4</a> cartographie :
+Le projet GaWC.qgz réalisé avec <a href="https://www.qgis.org/en/site/">QGIS 3.4</a> cartographie :
 <li>la typologie des métropoles mondiales de catégorie Alpha en 2018 ;
 <li>le nombre des sièges sociaux des firmes multinationales du classement Global Fortune en 2018. 
 
