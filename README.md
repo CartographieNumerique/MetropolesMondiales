@@ -4,7 +4,7 @@ Le jeu de données permet de mesurer l'évolution du classement des métropoles 
 
 Ce classement peut être mis en perspective avec les données compélmentaires décrites ci-dessous.
 
-Le projet GaWC.qgz réalisé avec <a href="https://www.qgis.org/en/site/">QGIS 3.4</a> cartographie la typologie des métropoles mondiales de catégorie Alpha en 2018. 
+Le projet GaWC 2018.qgz réalisé avec <a href="https://www.qgis.org/en/site/">QGIS 3.4</a> cartographie la typologie des métropoles mondiales de catégorie Alpha en 2018. 
 
 Champs attributaires et sources des données :
 
@@ -22,20 +22,30 @@ URL : http://www.shanghairanking.com/ARWU2018.html<br>
 <li>NHCR2018 : Nombre de chercheurs les plus cités parmi les quarante-huit premières universités en 2018<br>
 Source : </i>Highly Cited Researchers 2018 Identifying top talent in the sciences and social sciences></i><br>
 URL : http://discover.clarivate.com/hcr-2018-exec-summary<br>
-<li>TINT2016 : Nombre de touristes internationaux en 2016<br>
-Source : </i>Mastercard Global Destination Cities Index 2017></i><br>
+<li>TINT2016 : Nombre de touristes internationaux en 2016 (en millions)<br>
+Source : </i>Mastercard Global Destination Cities Index 2017</i><br>
 URL : https://newsroom.mastercard.com/wp-content/uploads/2017/10/Mastercard-Destination-Cities-Index-Deck.pdf<br>
 <li>PMUNESCO : Nombre de site(s) classé(s) sur la liste du patrimoine mondial de l'UNESCO</i><br>
-Source : </i>UNESCO></i><br>
+Source : UNESCO<br>
 URL : https://whc.unesco.org/fr/list/<br>
+<li>EVP2016 : Trafic de conteneurs en 2016 en milliers d'EVP</i><br>
+<li>EVP2016 : Trafic portuaire en 2016 en milliers de tonnes</i><br>
+Source : </i>American Association of Port Authorities</i><br>
+URL : https://www.aapa-ports.org/unifying/content.aspx?ItemNumber=21048<br>
+<li>EVP2016 : Trafic aéroportuaire en 2017 en passagers</i><br>
+Source : </i>Airports Council International</i><br>
+URL : https://aci.aero/data-centre/annual-traffic-data/passengers/2017-passenger-summary-annual-traffic-data/<br>
+<li>HUBINT18 : Ville classée parmi les 50 premiers hubs internet mondiaux en 2018</i><br>
+Source : </i>TeleGeography</i><br>
+URL : https://global-internet-map-2018.telegeography.com/<br>
 <li>STPOL : Statut politique></i><br>
 <li>COOPREG : Siège d'une organisation de coopération économique régioanle<br>
 <li>GVMOND : Siège ou agence d'une organisation multilatérale<br>
-<li>PIB2014 : Produit urbain brut en 2014<br>
-<li>PIB2014 : Produit urbain brut par habitant en 2014<br>
+<li>PIB2014 : Produit urbain brut en 2014 (en millions de US$ PPA)<br>
+<li>PIB2014 : Produit urbain brut par habitant en 2014 (en US$ PPA)<br>
 Source : </i>Global Metro Monitor></i><br>
 URL : https://www.brookings.edu/research/global-metro-monitor/<br>
-<li>KBOURS18 : Capitalisation boursière en décembre 2018<br>
+<li>KBOURS18 : Capitalisation boursière en décembre 2018 (en millions de US$)<br>
 Source : </i>World Federation of Exchanges></i><br>
 URL : https://focus.world-exchanges.org/issue/january-2019/market-statistics<br>
 <li>GFxxxx : Nombre de sièges sociaux de firmes classées parmiles 500 premières au monde durant l'année xxxx<br>
@@ -49,7 +59,3 @@ URL : https://www.lboro.ac.uk/gawc/world2000t.html<br>
 URL : https://www.lboro.ac.uk/gawc/world2012t.html<br>
 URL : http://www.lboro.ac.uk/gawc/world2016t.html<br>
 URL : http://www.lboro.ac.uk/gawc/world2018t.html<br>
-
-
-
-
