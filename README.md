@@ -14,10 +14,10 @@ URL : https://population.un.org/wup/Download/<br>
 <li>ET2018 : Nombre d'étudiants dans la ou les université(s) classées parmi les cent premières du </i>World University Ranking 2019></i><br>
 <li>ETETR2018 : Nombre d'étudiants étrangers dans la ou les université(s) classées parmi les cent premières du </i>World University Ranking 2019</i><br>
 <li>ET2018 : Nombre d'université(s) classées parmi les cent premières du </i>World University Ranking 2019</i><br>
-Source : </i>Times Higher Education 2019></i><br>
+Source : </i>Times Higher Education 2019</i><br>
 URL : https://www.timeshighereducation.com/world-university-rankings/2019/world-ranking#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats<br>
 <li>NUNIV2018 : Nombre d'université(s) classées parmi les cent premières de l'</i>Academic Ranking of World Universities 2018</i><br>
-Source : </i>Academic Ranking of World Universities 2018></i><br>
+Source : </i>Academic Ranking of World Universities 2018</i><br>
 URL : http://www.shanghairanking.com/ARWU2018.html<br>
 <li>NHCR2018 : Nombre de chercheurs les plus cités parmi les quarante-huit premières universités en 2018<br>
 Source : </i>Highly Cited Researchers 2018 Identifying top talent in the sciences and social sciences></i><br>
