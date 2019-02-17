@@ -2,7 +2,7 @@
 
 Le jeu de données permet de mesurer l'évolution du classement des métropoles mondiales selon le classement du <a href="https://www.lboro.ac.uk/gawc/group.html">GaWC</a>. Les trois derniers classements sont disponibles (2012-2018). Ils peuvent être comparés au classement établi en 2000.
 
-Ce classement peut être mis en perspective avec les données compélmentaires décrites ci-dessous.
+Ce classement peut être mis en perspective avec les données complémentaires décrites ci-dessous.
 
 Le projet GaWC 2018.qgz réalisé avec <a href="https://www.qgis.org/en/site/">QGIS 3.4</a> cartographie la typologie des métropoles mondiales de catégorie Alpha en 2018. 
 
