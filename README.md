@@ -6,7 +6,21 @@ Le projet GaWC.qgz réalisé avec <a href="https://www.qgis.org/en/site/">QGIS 3
 <li>la typologie des métropoles mondiales de catégorie Alpha en 2018 ;
 <li>le nombre des sièges sociaux des firmes multinationales du classement Global Fortune en 2018. 
 
-Sources des données :
+Champs attributaires et sources des données :
+
+<li>POPxxxx : Population recensée ou estimée durant l'année xxxx (en milliers d'habitants)<br>
+Source : <i>World Urbanization Prospects 2018</i><br>
+URL : https://population.un.org/wup/Download/<br>
+<li>ET2018 : Nombre d'étudiants dans la ou les université(s) classées parmi les cent premières du </i>World University Ranking 2019></i><br>
+Source : </i>Times Higher Education 2019></i><br>
+URL : https://www.timeshighereducation.com/world-university-rankings/2019/world-ranking#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats<br>
+<li>ETETR2018 : Nombre d'étudiants étrangers dans la ou les université(s) classées parmi les cent premières du </i>World University Ranking 2019></i><br>
+Source : </i>Times Higher Education 2019></i><br>
+URL : https://www.timeshighereducation.com/world-university-rankings/2019/world-ranking#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats<br>
+<li>ET2018 : Nombre d'université(s) classées parmi les cent premières du </i>World University Ranking 2019></i><br>
+Source : </i>Times Higher Education 2019></i><br>
+URL : https://www.timeshighereducation.com/world-university-rankings/2019/world-ranking#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats<br>
+  
 
 <li><i>Fortune Global 500</i> 2016<br>
 URL : http://fortune.com/global500/2016/<br>
